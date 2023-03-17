@@ -1,0 +1,10 @@
+body {
+    background-color: var(--main-bg-color);
+    color: var(--text-color);
+  }
+
+:root {
+    --main-bg-color: pink;
+    --text-color:navy;
+  }
+  
