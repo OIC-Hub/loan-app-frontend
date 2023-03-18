@@ -1,6 +1,8 @@
 import './App.css';
-import {BrowserRouter,Route,Routes} from 'react-dom'
-import Navbar  from './components/common/Navbar';
+import { BrowserRouter, Route, Routes } from 'react'
+import Navbar from './components/common/Navbar';
+import Footer from './components/common/Footer';
+import Dashboard from './components/pages/Dashboard'
 
 
 function App() {
